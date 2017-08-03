@@ -1,2 +1,1 @@
-import time
-print (time.time())
+import quest
