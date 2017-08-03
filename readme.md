@@ -26,6 +26,10 @@ number, last review, correct review times, total review times and Ebbinghaus fun
 
 the second means is a feature i'm developping.
 
+### Feature Request
+1. the script
+2. time used to review -> s
 
+$$ R = e^{-frac ts}$$
 
 
